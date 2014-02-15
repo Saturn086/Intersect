@@ -2,7 +2,7 @@ Intersect
 
 Devs:
 * Alejandro Zamudio Guajardo
-* Marco César Peyrot
+* Marco Antonio Peyrot
 * Victor Manuel Cruz Reyes
 * Melissa Figueroa Garza
 * Oliver
